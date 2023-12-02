@@ -1,0 +1,8 @@
+xlearn
+scikit-learn
+numpy
+scipy
+joblib
+threadpoolctl
+pandas
+
